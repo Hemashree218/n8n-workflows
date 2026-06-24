@@ -19,14 +19,14 @@
           "value": "1gJscMLlXE5Dgk7syzJG-baxD5JoEqxkMftd09edMrtw",
           "mode": "list",
           "cachedResultName": "Email",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1gJscMLlXE5Dgk7syzJG-baxD5JoEqxkMftd09edMrtw/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/SAMPLE_SPREADSHEET_ID"
         },
         "sheetName": {
           "__rl": true,
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "Sheet1",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1gJscMLlXE5Dgk7syzJG-baxD5JoEqxkMftd09edMrtw/edit#gid=0"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/SAMPLE_SPREADSHEET_ID"
         },
         "options": {}
       },
@@ -40,7 +40,7 @@
       "name": "Google Sheets",
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "uIMj2K222f9o0mhQ",
+          "id": "SAMPLE_SPREADSHEET_ID",
           "name": "Google Sheets account"
         }
       }
@@ -56,7 +56,7 @@
           },
           "conditions": [
             {
-              "id": "fdc40194-662b-402b-b731-6405ce91259e",
+              "id": "SAMPLE_SPREADSHEET_ID",
               "leftValue": "={{ $json[\"Send Status\"] }}",
               "rightValue": "SENT",
               "operator": {
@@ -105,7 +105,7 @@
           "value": 1720308032,
           "mode": "list",
           "cachedResultName": "Sheet2",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1gJscMLlXE5Dgk7syzJG-baxD5JoEqxkMftd09edMrtw/edit#gid=1720308032"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/SAMPLE_SPREADSHEET_ID"
         },
         "filtersUI": {
           "values": []
@@ -265,7 +265,7 @@
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "Sheet1",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1GHd6f4xZLT2uCx9OiuvZmMjr_J7yjbd9buhHi-LKxDo/edit#gid=0"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/SAMPLE_SPREADSHEET_ID"
         },
         "columns": {
           "mappingMode": "defineBelow",
@@ -353,7 +353,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "uIMj2K222f9o0mhQ",
-          "name": "Google Sheets account"
+          "name": "Sample Gmail Credential"
         }
       }
     }
