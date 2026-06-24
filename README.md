@@ -13,7 +13,7 @@ The workflow reads user records from Google Sheets, selects the appropriate emai
 * Match email templates based on User Type
 * Personalize emails using `{{NAME}}` placeholders
 * Send emails automatically through Gmail
-* Update email delivery status in Google Sheets
+* Update email delivery status in Google Sheets 
 * Prevent duplicate email sending
 
 ## Workflow
